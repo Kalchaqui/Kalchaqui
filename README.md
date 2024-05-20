@@ -1,2 +1,2 @@
-[![Descripción de la imagen](https://media.giphy.com/media/Mf08/source.gif)](https://i.gifer.com/Mf08.gif)
+Mi name is Diego Raúl, I specialize in Blockchain Developer and Front-End Developer
 
