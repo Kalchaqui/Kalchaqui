@@ -7,7 +7,7 @@ I specialize in Blockchain Developer and Front-End Developer
 ------------------------------------------------------------
 
 * 🌍  I'm from Córdoba, Argentina
-* ✉️  You can contact me at [diego.rbarrionuevo@gmail.com or Discord](mailto:diego.rbarrionuevo@gmail.com or Discord)
+* ✉️  You can contact me at ln or discord
 
 ### Skills
 
