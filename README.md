@@ -1,1 +1,1 @@
-# <img src="<iframe src="https://gifer.com/embed/33HI" width=480 height=269.502 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">a través de GIFER</a></p>"/>
+# <img src="https://gifer.com/embed/33HI" width=480 height=269.502 frameBorder="0" allowFullScreen"/>
